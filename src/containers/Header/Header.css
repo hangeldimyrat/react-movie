@@ -7,4 +7,16 @@
     display: flex;
     align-items: center;
     padding: 0 55px;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.HeaderLeft {
+    display: flex;
+    align-items: center;
+}
+
+.HeaderRight {
+    display: flex;
+    align-items: center;
 }
