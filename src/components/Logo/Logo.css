@@ -15,9 +15,12 @@
 
 .Logo-Name {
     font-size: 17px;
-    font-weight: 700;
+    font-weight: 600;
+    font-family: "Acme", sans-serif;
+    letter-spacing: 2px;
 }
 
 .App-Name {
-    font-size: 13px;
+    font-size: 15px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
