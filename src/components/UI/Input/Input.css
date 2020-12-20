@@ -7,3 +7,16 @@
     -ms-transition: all .3s ease-in;
     -o-transition: all .3s ease-in;
 }
+
+.SearchInput {
+    height: 30px;
+    width: 160px;
+    padding: 0 20px;
+    border-radius:100px 0 0 100px ;
+    color:grey;
+    background-color: whitesmoke;
+    -webkit-border-radius:100px 0 0 100px ;
+    -moz-border-radius:100px 0 0 100px ;
+    -ms-border-radius:100px 0 0 100px ;
+    -o-border-radius:100px 0 0 100px ;
+}

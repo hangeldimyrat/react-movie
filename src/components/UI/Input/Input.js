@@ -5,7 +5,7 @@ import './Input.css';
 const input = props => (
     <div>
         <input 
-            className={['Input' , props.InputType].join(' ')}
+            className={['Input' , props.inputType].join(' ')}
             value={props.value}
             onChange={props.changed}
             placeholder={props.placeholder} />

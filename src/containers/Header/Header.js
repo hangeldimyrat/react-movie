@@ -1,10 +1,13 @@
 import React, {Component} from 'react';
 import {FaGithub} from 'react-icons/fa';
+import {IoIosSearch} from 'react-icons/io';
 
 import Logo from '../../components/Logo/Logo';
 import './Header.css';
 import Navigation from '../../components/Navigation/Navigation';
 import Link from '../../components/UI/Link/Link';
+import Input from '../../components/UI/Input/Input';
+import Button from '../../components/UI/Button/Button';
 
 class Header extends Component {
     render () {
@@ -13,6 +16,12 @@ class Header extends Component {
                 <div className='HeaderLeft'>
                     <Logo />  
                     <Navigation />
+                    <div style={{display:'flex',alignItems:'center'}}>
+                        <Input inputType='SearchInput' placeholder='Search...' />
+                        <Button btnType='SearchButton'>
+                            <IoIosSearch />
+                        </Button>
+                    </div>
                 </div>
                 <div className='HeaderRight'>
                     <Link 
