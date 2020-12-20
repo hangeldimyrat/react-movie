@@ -1,5 +1,5 @@
 .dropTitle {
-    color: #5c5c5c;
+    color: rgb(210, 255, 255);
     font-size: 16px;
     font-weight: 500;
     cursor: pointer;
@@ -51,6 +51,6 @@
 }
 
 .dropdown:hover .dropTitle {
-    color: #254278
+    color: #5c7ebe
 }
 
