@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 
 import './Home.css';
 import SlideShow from '../../components/SlideShow/SlideShow';
+import MovieList from '../../components/MovieList/MovieList';
 
 class Home extends Component {
     render () {
@@ -11,7 +12,7 @@ class Home extends Component {
                     <SlideShow />
                 </div>
                 <div>
-                    MovieList
+                    <MovieList />
                 </div>
             </div>
         );

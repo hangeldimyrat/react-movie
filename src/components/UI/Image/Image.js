@@ -7,7 +7,7 @@ const image = props => (
         src={props.src}
         alt={props.alt}
         className={props.className}
-        style={{width.props.width,height:props.height}}
+        style={{width:props.width,height:props.height}}
     />
 );
 
