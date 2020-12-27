@@ -12,7 +12,194 @@ const movieList = props => (
                        height={260}
                        src={require('../../assets/poster.jpg').default}
                        alt='poster'
-                       className='Poster-Image'
+                       className='Movie-List-Poster'
+                 />
+                 <div className='Movie-Vote-Container'>
+                     <p className='Movie-Star-Icon'>
+                         <i className='fas fa-star' />
+                     </p>
+                     <div>
+                         <p className='Movie-Vote-Average'>8.4</p>
+                     </div>
+                 </div>
+                 <p className='Movie-Title'>Interstellar</p>
+            </div>
+            <div className='Movie-Container'>
+                <Image width={175}
+                       height={260}
+                       src={require('../../assets/poster.jpg').default}
+                       alt='poster'
+                       className='Movie-List-Poster'
+                 />
+                 <div className='Movie-Vote-Container'>
+                     <p className='Movie-Star-Icon'>
+                         <i className='fas fa-star' />
+                     </p>
+                     <div>
+                         <p className='Movie-Vote-Average'>8.4</p>
+                     </div>
+                 </div>
+                 <p className='Movie-Title'>Interstellar</p>
+            </div>
+            <div className='Movie-Container'>
+                <Image width={175}
+                       height={260}
+                       src={require('../../assets/poster.jpg').default}
+                       alt='poster'
+                       className='Movie-List-Poster'
+                 />
+                 <div className='Movie-Vote-Container'>
+                     <p className='Movie-Star-Icon'>
+                         <i className='fas fa-star' />
+                     </p>
+                     <div>
+                         <p className='Movie-Vote-Average'>8.4</p>
+                     </div>
+                 </div>
+                 <p className='Movie-Title'>Interstellar</p>
+            </div>
+            <div className='Movie-Container'>
+                <Image width={175}
+                       height={260}
+                       src={require('../../assets/poster.jpg').default}
+                       alt='poster'
+                       className='Movie-List-Poster'
+                 />
+                 <div className='Movie-Vote-Container'>
+                     <p className='Movie-Star-Icon'>
+                         <i className='fas fa-star' />
+                     </p>
+                     <div>
+                         <p className='Movie-Vote-Average'>8.4</p>
+                     </div>
+                 </div>
+                 <p className='Movie-Title'>Interstellar</p>
+            </div>
+            <div className='Movie-Container'>
+                <Image width={175}
+                       height={260}
+                       src={require('../../assets/poster.jpg').default}
+                       alt='poster'
+                       className='Movie-List-Poster'
+                 />
+                 <div className='Movie-Vote-Container'>
+                     <p className='Movie-Star-Icon'>
+                         <i className='fas fa-star' />
+                     </p>
+                     <div>
+                         <p className='Movie-Vote-Average'>8.4</p>
+                     </div>
+                 </div>
+                 <p className='Movie-Title'>Interstellar</p>
+            </div>
+            <div className='Movie-Container'>
+                <Image width={175}
+                       height={260}
+                       src={require('../../assets/poster.jpg').default}
+                       alt='poster'
+                       className='Movie-List-Poster'
+                 />
+                 <div className='Movie-Vote-Container'>
+                     <p className='Movie-Star-Icon'>
+                         <i className='fas fa-star' />
+                     </p>
+                     <div>
+                         <p className='Movie-Vote-Average'>8.4</p>
+                     </div>
+                 </div>
+                 <p className='Movie-Title'>Interstellar</p>
+            </div>
+            <div className='Movie-Container'>
+                <Image width={175}
+                       height={260}
+                       src={require('../../assets/poster.jpg').default}
+                       alt='poster'
+                       className='Movie-List-Poster'
+                 />
+                 <div className='Movie-Vote-Container'>
+                     <p className='Movie-Star-Icon'>
+                         <i className='fas fa-star' />
+                     </p>
+                     <div>
+                         <p className='Movie-Vote-Average'>8.4</p>
+                     </div>
+                 </div>
+                 <p className='Movie-Title'>Interstellar</p>
+            </div>
+            <div className='Movie-Container'>
+                <Image width={175}
+                       height={260}
+                       src={require('../../assets/poster.jpg').default}
+                       alt='poster'
+                       className='Movie-List-Poster'
+                 />
+                 <div className='Movie-Vote-Container'>
+                     <p className='Movie-Star-Icon'>
+                         <i className='fas fa-star' />
+                     </p>
+                     <div>
+                         <p className='Movie-Vote-Average'>8.4</p>
+                     </div>
+                 </div>
+                 <p className='Movie-Title'>Interstellar</p>
+            </div>
+            <div className='Movie-Container'>
+                <Image width={175}
+                       height={260}
+                       src={require('../../assets/poster.jpg').default}
+                       alt='poster'
+                       className='Movie-List-Poster'
+                 />
+                 <div className='Movie-Vote-Container'>
+                     <p className='Movie-Star-Icon'>
+                         <i className='fas fa-star' />
+                     </p>
+                     <div>
+                         <p className='Movie-Vote-Average'>8.4</p>
+                     </div>
+                 </div>
+                 <p className='Movie-Title'>Interstellar</p>
+            </div>
+            <div className='Movie-Container'>
+                <Image width={175}
+                       height={260}
+                       src={require('../../assets/poster.jpg').default}
+                       alt='poster'
+                       className='Movie-List-Poster'
+                 />
+                 <div className='Movie-Vote-Container'>
+                     <p className='Movie-Star-Icon'>
+                         <i className='fas fa-star' />
+                     </p>
+                     <div>
+                         <p className='Movie-Vote-Average'>8.4</p>
+                     </div>
+                 </div>
+                 <p className='Movie-Title'>Interstellar</p>
+            </div>
+            <div className='Movie-Container'>
+                <Image width={175}
+                       height={260}
+                       src={require('../../assets/poster.jpg').default}
+                       alt='poster'
+                       className='Movie-List-Poster'
+                 />
+                 <div className='Movie-Vote-Container'>
+                     <p className='Movie-Star-Icon'>
+                         <i className='fas fa-star' />
+                     </p>
+                     <div>
+                         <p className='Movie-Vote-Average'>8.4</p>
+                     </div>
+                 </div>
+                 <p className='Movie-Title'>Interstellar</p>
+            </div>
+            <div className='Movie-Container'>
+                <Image width={175}
+                       height={260}
+                       src={require('../../assets/poster.jpg').default}
+                       alt='poster'
+                       className='Movie-List-Poster'
                  />
                  <div className='Movie-Vote-Container'>
                      <p className='Movie-Star-Icon'>
