@@ -14,7 +14,7 @@
 }
 
 .Movie-Name{
-    font-size: 30px;
+    font-size: 40px;
     color:#fff;
     text-align: left;
     font-weight: 800;
@@ -49,6 +49,7 @@
     opacity: .7;
     font-family:Calibri, sans-serif;
     font-weight: 100;
+    font-size: 25px;
 }
 
 .Overview{
@@ -64,7 +65,7 @@
 .Genres{
     font-size: 12px;
     font-weight: 600;
-    color: #999;
+    color: rgb(199, 197, 197);
     font-family: Montserrat, sans-serif;
     margin-right: 5px;
     cursor: pointer;
