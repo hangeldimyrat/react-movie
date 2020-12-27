@@ -1,3 +1,85 @@
 .Content{
-    height:450px,
+    height:430px;
 }
+.Opacity{
+    background-color:rgba(0, 0, 0, .4);
+    width: 100%;
+    height: 100%;
+    padding:25px;
+    display: flex;
+    align-items: center;
+}
+.Most-Popular .nav{
+    margin: 15px!important;
+}
+
+.Movie-Name{
+    font-size: 30px;
+    color:#fff;
+    text-align: left;
+    font-weight: 800;
+    margin: 10px 0 5px 0;
+    font-family: 'Amaranth', sans-serif;
+    letter-spacing: 1px;
+}
+
+.Vote-Container{
+    display: flex;
+    align-items: center;
+}
+.Vote-Average{
+    color:#fff;
+    font-size: 20px;
+}
+
+.Star-Icon{
+    color: #f5c518;
+    font-size: 19px;
+    margin-right: 5px;
+}
+.Vote-Count{
+    opacity: .3;
+    margin-left: 5px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    font-size: 12px;
+}
+
+.Release-Date{
+    opacity: .7;
+    font-family:Calibri, sans-serif;
+    font-weight: 100;
+}
+
+.Overview{
+    width: 75%;
+    text-align: left;
+    color: #fff;
+    font-style: italic;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-top: 10px;
+}
+
+.Genres{
+    font-size: 12px;
+    font-weight: 600;
+    color: #999;
+    font-family: Montserrat, sans-serif;
+    margin-right: 5px;
+    cursor: pointer;
+    letter-spacing: 1px;
+    transition: all .2s ease-in;
+}
+
+.Genres:hover{
+    color:#fff
+}
+
+.Content ul {
+    display: flex;
+    list-style: none;
+    padding:0;
+    margin-top: 25px;
+}
+

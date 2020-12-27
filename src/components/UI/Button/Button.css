@@ -1,13 +1,13 @@
-.Button {
-    border: none;
+.Button{
+    border:none;
     outline: none;
     background-color: transparent;
     cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: all .3s ease-in;
 }
-
 .SearchButton {
     height: 30px;
     background-color: whitesmoke;
@@ -20,3 +20,21 @@
     -ms-border-radius: 0 100px 100px 0;
     -o-border-radius: 0 100px 100px 0;
 }
+
+
+
+.Go-Detail{
+    border-radius: 100px;
+    border:1px solid #fff;
+    color:#fff;
+    font-size: 13px;
+    padding:5px 13px;
+    letter-spacing: 1px;
+    margin-top:50px;
+}
+
+.Go-Detail:hover{
+    background-color: #003669;
+    border:1px solid transparent;
+}
+
