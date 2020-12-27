@@ -21,6 +21,18 @@ const slideShow = props => (
                     <div className='Movie-Name'>Interstellar</div>
                 </div>
             </div>
+            <div className='each-slide'
+                style={{
+                    width:'100%',
+                    height:'100%',
+                    backgroundImage: `url(${img})`,
+                    backgroundRepeat:'no-repeat',
+                    backgroundSize:'cover'
+                }}>
+                <div className='Content'>
+                    <div className='Movie-Name'>Interstellar</div>
+                </div>
+            </div>
         </Slide>
     </div>
 );
